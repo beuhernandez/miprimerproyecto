@@ -1,0 +1,6 @@
+Diferencias entre un Repositorio Publico y un Repositorio Privado:
+La primera diferencia que noto, es que en el inicio de la pagina 
+aparece un pequeño globito que dice "Private", al lado del nombre de mi Repositorio. 
+Además, en el Inicio del sitio de GitHub, aparecen mis Repositorios y al lado izquierdo, 
+aparecen un "candadito" en el Repositorio que es privado. 
+
